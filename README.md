@@ -1,4 +1,4 @@
-# 🐾 NOCTURNE PETS — Adopt Me money farm
+# 🐾 LOWK ADOPT ME — Adopt Me money farm
 
 Takes care of your pet's needs (and your own when you play as a baby) so you earn Bucks while AFK.
 
