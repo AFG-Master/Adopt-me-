@@ -11,6 +11,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AFG-Master/Adopt-me-/
 
 **Auto-start:** copy [`autoexec/adopt_me.lua`](autoexec/adopt_me.lua) into your executor's *autoexec* folder. It only runs in Adopt Me and always loads the newest version.
 
+## 💎 Free vs Premium
+- **Free:** the whole auto farm (everything that earns Bucks) + a clean panel.
+- **Premium:** the Island, 10 themes + seasonal, living effects, 3D pet hologram, AFK lock screen, photo mode, presets, goals, PRO tab.
+- To get Premium, send your **Roblox username** to the owner. Your key only works on your account.
+
 ## ✨ Features
 - **Pet care:** Salon, School, Pizza Party, Cat Cafe, Hospital (doctor), Park, Campsite, Beach, weather spots, bed / bath / toilet in your house, food & drink, walk, ride (stroller), play, mystery needs
 - **Baby mode:** on the Babies team it also does *your* needs — one trip pays you and your pet
